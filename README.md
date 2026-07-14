@@ -69,14 +69,10 @@ An embedded monitoring project using FreeRTOS and LoRa for task scheduling and l
 - Automation and robotics systems
 - AI-assisted embedded applications
 
-## Goals
-
-I am looking for opportunities to apply my embedded programming and IoT knowledge in real projects, improve my firmware development skills, and gain hands-on experience in building practical smart devices.
 
 ## Contact
 
 - Email: trieuhagiang1312@gmail.com
-- Phone: 0983267704
 - GitHub: [TrieuHzang](https://github.com/TrieuHzang)
 
 ---
