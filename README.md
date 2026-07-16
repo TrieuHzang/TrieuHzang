@@ -1,6 +1,6 @@
-# Trieu Ha Giang (TrieuHzang)
+# Hi, I'm Trieu Ha Giang 
 
-Embedded Systems and IoT Student focused on firmware development, hardware-software integration, and real-time monitoring systems.
+An Embedded Systems and IoT developer passionate about firmware development, Embedded Linux, and building robust end-to-end IoT architectures. Experienced in designing real-time monitoring systems, writing bare-metal/RTOS firmware, and working within Ubuntu/Linux environments to bridge the gap between hardware and software.
 
 ---
 
@@ -28,11 +28,11 @@ Embedded Systems and IoT Student focused on firmware development, hardware-softw
 * Description: A multi-device embedded architecture utilizing STM32 for sensor data acquisition, ESP32 for wireless transmission, and Raspberry Pi for processing. Implements simple predictive models to monitor water health and handle alert routing.
 
 #### [Smart Garden System Using FreeRTOS](https://github.com/TrieuHzang)
-* Technologies: FreeRTOS, LoRa, Sensors, Automation
+* Technologies: FreeRTOS, ESP32, STM32, Sensors, Automation
 * Description: An automated garden monitoring system utilizing FreeRTOS for robust task scheduling and priority management, combined with LoRa technology for long-range, low-power data transmission.
 
 #### [Flappy Bird Game](https://github.com/TrieuHzang)
-* Technologies: C++, Graphics Library
+* Technologies: C, C++, AK Base Kit STM32L151
 * Description: A classic Flappy Bird clone implemented in C++ to demonstrate clean game loop architecture, collision detection algorithms, and efficient resource handling.
 
 ---
