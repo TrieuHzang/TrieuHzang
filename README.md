@@ -1,6 +1,6 @@
 ## About me
 
-I'm an Embedded Systems and IoT developer specializing in firmware development and embedded communication systems. My interests include building reliable IoT applications using STM32, ESP32, Raspberry Pi, and MQTT.
+I'm an Embedded Systems and IoT developer specializing in firmware development and embedded communication systems. My interests include building reliable IoT applications using STM32, ESP32, Raspberry Pi.
 
 ## Technologies
 
