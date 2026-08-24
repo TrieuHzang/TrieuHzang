@@ -1,13 +1,10 @@
 ## About me
 
-I'm an Embedded Systems and IoT developer specializing in firmware development and embedded communication systems. My interests include building reliable IoT applications using STM32, ESP32, Raspberry Pi.
+I'm an Embedded Systems Engineering Student passionate about developing reliable embedded software for microcontroller- and Linux-based systems.
 
-## Technologies
+Currently:
 
-**Languages:** C, C++, Python
+- Electrical – Electronics – IoT Intern at FPT Telecom: Learning about the IPMS/OPMS system through technical research and hands-on exercises related to SNMP-based device monitoring, control logic, and relay operation.
+- Graduation Project: Developing a Baby Sleep Safety Monitoring and Alert System on Raspberry Pi, combining embedded Linux, computer vision, audio processing, and real-time alert handling.
 
-**Platforms:** STM32, ESP32, Raspberry Pi
-
-**Protocols:** MQTT, UART, I2C, SPI
-
-**Operating Systems:** Linux (Ubuntu), Raspberry Pi OS, FreeRTOS
+My work focuses on: C/C++ • Embedded Firmware • STM32 / ESP32 • Embedded Linux • Edge AI
