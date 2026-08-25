@@ -1,6 +1,6 @@
 ## About me
 
-I'm an Embedded Systems Engineering Student passionate about developing reliable embedded software for microcontroller- and Linux-based systems..
+I'm an Embedded Systems Engineering Student passionate about developing reliable embedded software for microcontroller- and Linux-based systems.
 
 **Currently:**
 
